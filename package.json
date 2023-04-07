@@ -1,0 +1,20 @@
+{
+  "name": "testing_pratice",
+  "version": "1.0.0",
+  "description": "",
+  "main": "script.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Thony29/testing_pratice.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Thony29/testing_pratice/issues"
+  },
+  "homepage": "https://github.com/Thony29/testing_pratice#readme"
+}
